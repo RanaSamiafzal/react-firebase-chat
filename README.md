@@ -130,21 +130,12 @@ This builds the app for production to the `build` folder.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Firebase](https://firebase.google.com/) - Google's mobile platform for app development
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 - [Create React App](https://create-react-app.dev/) - React application bootstrapping tool
 
-## 📞 Support
-
-For support, email support@example.com or create an issue in this repository.
-
----
 
 **Made with ❤️ using React and Firebase**
