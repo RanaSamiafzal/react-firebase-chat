@@ -2,7 +2,7 @@
 
 A modern, responsive real-time chat application built with React and Firebase. PChat provides seamless authentication and instant messaging capabilities with a clean, professional interface.
 
-![PChat Demo](https://via.placeholder.com/800x400/2563eb/ffffff?text=PChat+Demo)
+![PChat Demo](https://react-firebase-chat-ymcl.vercel.app/)
 
 ## 🚀 Features
 
